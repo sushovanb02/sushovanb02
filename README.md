@@ -1,3 +1,4 @@
+![](name.png)
 <h1 align="center">Hi 👋, I'm Sushovan Banerjee</h1>
 <h3 align="center">A passionate web developer Open Source Contributor</h3>
 
