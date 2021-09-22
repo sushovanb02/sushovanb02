@@ -1,6 +1,6 @@
 ![](name.png)
 <h1 align="center">Hi 👋, I'm Sushovan Banerjee</h1>
-<h3 align="center">A passionate web developer Open Source Contributor</h3>
+<h3 align="center">A passionate web developer & Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushovanb02&label=Profile%20views&color=0e75b6&style=flat" alt="sushovanb02" /> </p>
 
