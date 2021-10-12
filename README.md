@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [GirlScript Winter of Contribution](https://github.com/sushovanb02/winter-of-contributing)
+- 🔭 I’m currently working on Foodie Hub project
 
 - 🌱 I’m currently learning **Backend Development**
 
